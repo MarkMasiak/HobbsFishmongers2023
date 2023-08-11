@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".htaccess" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175186105916" remote="131191042200000000" Dst="1" />
+<file name="access.log.26.gz" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175186333523" remote="131191042200000000" Dst="1" />
+<file name="access.log.27.gz" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175186958162" remote="131191042200000000" Dst="1" />
+<file name="access.log.28.gz" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175188919903" remote="131191042200000000" Dst="1" />
+<file name="access.log.38.4.gz" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175190131751" remote="131191042200000000" Dst="1" />
+<file name="access.log.38.5" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175190927660" remote="131191042200000000" Dst="1" />
+<file name="access.log.current" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175192350802" remote="131191042200000000" Dst="1" />
+<file name="info.php5" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175193338400" remote="131191042200000000" Dst="1" />
+<file name="info.pl" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175193626179" remote="131191042200000000" Dst="1" />
+<file name="info.py" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175195216283" remote="131191042200000000" Dst="1" />
+<file name="last_traffic" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175193626179" remote="131191042200000000" Dst="1" />
+<file name="mail.log.27.gz" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175197582201" remote="131191042200000000" Dst="1" />
+<file name="mail.log.28.gz" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175198668773" remote="131191042200000000" Dst="1" />
+<file name="sftp.log" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175199585918" remote="131191042200000000" Dst="1" />
+<file name="traffic.db" server="waws-prod-ln1-001dr.ftp.azurewebsites.windows.net//site/wwwroot/" local="133148175204976992" remote="131191042200000000" Dst="1" />
+<file name=".htaccess" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885173906192" remote="131190970200000000" Dst="2" />
+<file name="access.log.26.gz" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885174147443" remote="131190970200000000" Dst="2" />
+<file name="access.log.27.gz" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885176673623" remote="131190970200000000" Dst="2" />
+<file name="access.log.38.4.gz" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885180922053" remote="131190970200000000" Dst="2" />
+<file name="access.log.38.5" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885187757562" remote="131190970200000000" Dst="2" />
+<file name="access.log.28.gz" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885188344836" remote="131190970200000000" Dst="2" />
+<file name="access.log.current" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885191430834" remote="131190970200000000" Dst="2" />
+<file name="info.pl" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885193603712" remote="131190970200000000" Dst="2" />
+<file name="info.php5" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885197016536" remote="131190970200000000" Dst="2" />
+<file name="last_traffic" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885194192184" remote="131190970200000000" Dst="2" />
+<file name="info.py" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885202511991" remote="131190970200000000" Dst="2" />
+<file name="mail.log.28.gz" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885205097921" remote="131190970200000000" Dst="2" />
+<file name="mail.log.27.gz" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885209421153" remote="131190970200000000" Dst="2" />
+<file name="sftp.log" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885209421153" remote="131190970200000000" Dst="2" />
+<file name="traffic.db" server="waws-prod-ln1-001.ftp.azurewebsites.windows.net:990//site/wwwroot/" local="133360885216016034" remote="131190970200000000" Dst="2" />
+</dwsync>
